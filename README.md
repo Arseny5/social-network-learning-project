@@ -1,4 +1,4 @@
-# Create social network web service using React + Redux
+# Create social network web service using React + Redux: educational project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
