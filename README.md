@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image](south_park.png)
+![image](social_network.jpeg)
 
 ## Available Scripts
 
